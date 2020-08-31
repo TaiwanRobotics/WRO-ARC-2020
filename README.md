@@ -1,4 +1,6 @@
 # World Robotics Olympiad - Advanced Robotics Challenge 2020  
+Team:Taiwan Drift(Ricky Huang & Hanson Huang , WRO ARC 2019 NO.1)
+
 We are team Taiwan Drift from Taiwan, After participating the last season of Advance Robotic challenge in WRO. We decide to share all of our robot designs to the world, Hope to contribute to the world of robotics. If you have any problems while building this robot, Feel free contact us.
 
 Video with perfect scores in Taiwan competition (4 same QR codes)
