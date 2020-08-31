@@ -1,6 +1,9 @@
 # World Robotics Olympiad - Advanced Robotics Challenge 2020  
 We are team Taiwan Drift from Taiwan, After participating the last season of Advance Robotic challenge in WRO. We decide to share all of out robot designs to the world, Hope to contribute to the world of robotics. If you have any problems while building this robot, Feel free contact us.
 
+Video with perfect scores in Taiwan competition (4 same QR codes)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AhCpwsq-SZc/0.jpg)](https://www.youtube.com/watch?v=AhCpwsq-SZc)
+
 ![GITHUB]( https://github.com/TaiwanRobotics/WRO-ARC-2020/blob/master/Picture/20200831_100622.jpg "RobotPicture")
 
 ## Software  
