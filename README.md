@@ -22,7 +22,7 @@ Vision Development Module
 ## Program
 Lidar control reference
 https://forums.ni.com/t5/myRIO-Student-Projects/Controlling-a-USB-LiDAR-using-myRIO-and-the-Classy-State-Machine/ta-p/3501627?profile.language=zh-TW
-![GITHUB]( https://github.com/TaiwanRobotics/WRO-ARC-2020/Picture/ "¹Ï¤ù¦WºÙ")
+![GITHUB]( https://github.com/TaiwanRobotics/WRO-ARC-2020/blob/master/Picture/RoboticsModule.jpg "RoboticsModuleExample")
 
 Labview Robotics module example directory (This is our program base)
 C:\Program Files (x86)\National Instruments\LabVIEW 2018\examples\robotics\Simulated Mecanum Robot\Simulated Mecanum Robot.lvproj
