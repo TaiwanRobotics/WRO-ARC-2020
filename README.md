@@ -37,6 +37,9 @@ https://forums.ni.com/t5/myRIO-Student-Projects/Using-USB-RS485-or-other-USB-to-
 
 
 ## Hardware
+myRIO Pinlist
+![GITHUB]( https://github.com/TaiwanRobotics/WRO-ARC-2020/blob/master/Picture/pinout.jpg "myRIO Pinlist")
+
 Motor Driver  
 https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15726392046.36.f4857b0bcJJbLE&id=551092190133  
 ![GITHUB]( https://github.com/TaiwanRobotics/WRO-ARC-2020/blob/master/Picture/HW/MotorDriver.jpg "MotorDriver")  
